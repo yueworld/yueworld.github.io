@@ -4,7 +4,7 @@
 
 > 一个强大的前端 JavaScript 类库
 
-* 简单并且轻量 (~320kb gzipped)
+* 简单并且轻量 (~240kb js、gzipped / ~35kb css、gzipped)
 <!--
 Multiple themes
 Not build static html files
