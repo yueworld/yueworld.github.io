@@ -1,6 +1,6 @@
 ![logo](media/logo.png)
 
-# core.js
+# yueworld.js
 
 > 一个强大的前端 JavaScript 类库
 
