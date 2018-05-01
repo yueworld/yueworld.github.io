@@ -9,10 +9,9 @@
 Multiple themes
 Not build static html files
 -->
-<!--
-[GitHub](https://github.com/QingWei-Li/docsify/)
-[Get Started](#quick-start)
--->
+
+[GitHub](https://github.com/yueworld/static/)
+[Get Started](#yueworldjs)
 
 <!-- 背景图片 ![](media/background.png) -->
 
