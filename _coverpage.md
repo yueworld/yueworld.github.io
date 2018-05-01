@@ -14,8 +14,6 @@ Not build static html files
 [Get Started](#quick-start)
 -->
 
-<!-- 背景图片 
-![](media/background.png)
+<!-- 背景图片 ![](media/background.png) -->
 
-<!-- 背景色 -->
-![color](#e4e7ea)
+<!-- 背景色 ![color](#e4e7ea)-->
