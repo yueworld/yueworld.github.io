@@ -237,3 +237,7 @@ window.$app = {
     }
 };
 ```
+
+## 登录示例
+[](http://sandbox.runjs.cn/show/giv2wqyz ':include :type=iframe width=100% height=300px')
+[RunJs](http://runjs.cn/code/giv2wqyz ':target=_blank')
