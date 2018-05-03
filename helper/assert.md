@@ -24,7 +24,6 @@ try {
     })
 }
 ```
-[](http://sandbox.runjs.cn/show/bkepuq8e ':include :type=iframe width=100% height=280px')
 [RunJs](http://runjs.cn/code/bkepuq8e ':target=_blank')
 
 
