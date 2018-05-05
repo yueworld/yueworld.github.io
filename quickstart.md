@@ -37,7 +37,7 @@ npm install
     <link rel="stylesheet" href="https://unpkg.com/yueworld/dist/min.css" type="text/css">
 </head>
 <body>
-    <h2 class="text-center">Wellcome、见浏览器标题!</h2>
+    <h2 class="text-center">welcome、见浏览器标题!</h2>
     <script type="text/javascript" src="https://unpkg.com/yueworld/dist/min.js"></script>
     <script type="text/javascript">
         // 启动应用
